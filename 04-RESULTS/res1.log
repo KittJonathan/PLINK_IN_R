@@ -1,0 +1,24 @@
+PLINK v1.90b7 64-bit (16 Jan 2023)
+Options in effect:
+  --bfile 01-DATA-RAW/hapmap1
+  --chr 1
+  --missing
+  --out 04-RESULTS/res1
+
+Hostname: CLT-1095-2310C
+Working directory: C:\Users\jkitt\03-CODING\04-TUTORIALS\PLINK_IN_R
+Start time: Mon Mar 18 14:50:07 2024
+
+Random number seed: 1710769807
+32408 MB RAM detected; reserving 16204 MB for main workspace.
+6762 out of 83534 variants loaded from .bim file.
+89 people (89 males, 0 females) loaded from .fam.
+89 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 89 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.995545.
+--missing: Sample missing data report written to 04-RESULTS/res1.imiss, and
+variant-based missing data report written to 04-RESULTS/res1.lmiss.
+
+End time: Mon Mar 18 14:50:08 2024

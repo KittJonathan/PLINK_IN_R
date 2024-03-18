@@ -1,0 +1,14 @@
+PLINK v1.90b7 64-bit (16 Jan 2023)
+Options in effect:
+  --adjust 04-RESULTS/as2
+  --assoc
+  --bfile 01-DATA-RAW/hapmap1
+
+Hostname: CLT-1095-2310C
+Working directory: C:\Users\jkitt\03-CODING\04-TUTORIALS\PLINK_IN_R
+Start time: Mon Mar 18 15:50:19 2024
+
+Error: Invalid --adjust parameter '04-RESULTS/as2'.
+For more information, try "plink --help <flag name>" or "plink --help | more".
+
+End time: Mon Mar 18 15:50:19 2024

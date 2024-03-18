@@ -1,14 +1,14 @@
 PLINK v1.90b7 64-bit (16 Jan 2023)
 Options in effect:
   --bfile 01-DATA-RAW/hapmap1
-  --freqx
+  --freq
   --out 04-RESULTS/freq_stat
 
 Hostname: CLT-1095-2310C
 Working directory: C:\Users\jkitt\03-CODING\04-TUTORIALS\PLINK_IN_R
-Start time: Fri Mar 15 10:17:58 2024
+Start time: Mon Mar 18 14:52:30 2024
 
-Random number seed: 1710494278
+Random number seed: 1710769950
 32408 MB RAM detected; reserving 16204 MB for main workspace.
 83534 variants loaded from .bim file.
 89 people (89 males, 0 females) loaded from .fam.
@@ -17,7 +17,7 @@ Using 1 thread (no multithreaded calculations invoked).
 Before main variant filters, 89 founders and 0 nonfounders present.
 Calculating allele frequencies... done.
 Total genotyping rate is 0.99441.
---freqx: Allele frequencies (founders only) written to
-04-RESULTS/freq_stat.frqx .
+--freq: Allele frequencies (founders only) written to 04-RESULTS/freq_stat.frq
+.
 
-End time: Fri Mar 15 10:17:59 2024
+End time: Mon Mar 18 14:52:30 2024
