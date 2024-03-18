@@ -6,9 +6,9 @@ Options in effect:
 
 Hostname: CLT-1095-2310C
 Working directory: C:\Users\jkitt\03-CODING\04-TUTORIALS\PLINK_IN_R
-Start time: Fri Mar 15 09:54:20 2024
+Start time: Mon Mar 18 14:39:38 2024
 
-Random number seed: 1710492860
+Random number seed: 1710769178
 32408 MB RAM detected; reserving 16204 MB for main workspace.
 83534 variants loaded from .bim file.
 89 people (89 males, 0 females) loaded from .fam.
@@ -20,4 +20,4 @@ Total genotyping rate is 0.99441.
 --missing: Sample missing data report written to 04-RESULTS/miss_stat.imiss,
 and variant-based missing data report written to 04-RESULTS/miss_stat.lmiss.
 
-End time: Fri Mar 15 09:54:20 2024
+End time: Mon Mar 18 14:39:38 2024
