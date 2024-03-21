@@ -47,4 +47,12 @@ system2(plink, c("--bfile", "01-DATA-RAW/hapmap1", "--pheno", "01-DATA-RAW/pop.p
 
 # GENOTYPIC AND OTHER ASSOCIATION MODELS ----------------------------------
 
+system2(plink, c("--bfile", "01-DATA-RAW/hapmap1",  "--model", "--snp", "rs2222162",
+                 "--out", "04-RESULTS/mod1"))
 
+mod1 <- read.table("04-RESULTS/mod1.model", header = TRUE)
+
+system2(plink, c("--bfile", "01-DATA-RAW/hapmap1",  "--model", "--cell", 0,
+                 "--snp", "rs2222162", "--out", "04-RESULTS/mod2"))
+
+mod2 <- read.table("04-RESULTS/mod2.model", header = TRUE)
