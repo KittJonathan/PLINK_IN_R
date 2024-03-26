@@ -56,3 +56,4 @@ system2(plink, c("--bfile", "01-DATA-RAW/hapmap1",  "--model", "--cell", 0,
                  "--snp", "rs2222162", "--out", "04-RESULTS/mod2"))
 
 mod2 <- read.table("04-RESULTS/mod2.model", header = TRUE)
+mod2 <- read.table("04-RESULTS/mod2.model", header = TRUE)
